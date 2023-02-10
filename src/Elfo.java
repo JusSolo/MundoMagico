@@ -3,7 +3,7 @@ public class Elfo implements CreaturaMagica{
         this.comida = comida;
         this.nombre = nombre;
     }
-    private String nombre;
+    private String nombre; contributors
     private String comida;
     public String decirNombre(){
 
